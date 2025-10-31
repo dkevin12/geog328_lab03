@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valve Corporation",
+        "country": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3331,
+          47.6097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ubisoft",
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.378,
+          48.8625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CD Projekt Red",
+        "country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockstar Games",
+        "country": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991,
+          40.7359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Epic Games",
+        "country": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7811,
+          35.9023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tencent Games",
+        "country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9304,
+          22.5396
+        ]
+      }
+    }
+  ]
+}
